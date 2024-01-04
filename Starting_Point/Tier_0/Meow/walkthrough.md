@@ -30,7 +30,7 @@ _A: nmap_
   
   Submit root flag
   <br>
-  
+  <img src="https://github.com/5cr1ptK1dd133/HackTheBox_walktroughs/blob/main/Starting_Point/Tier_0/Meow/screenshots/Screenshot-1.png?raw=true">
    
    
    
