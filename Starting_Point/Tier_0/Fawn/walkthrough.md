@@ -43,4 +43,4 @@ _A: get_
 
 Submit root flag 
 <br>
-       
+<img src="https://github.com/5cr1ptK1dd133/HackTheBox_walktroughs/blob/main/Starting_Point/Tier_0/Fawn/screenshots/Captura%20de%20tela%20de%202024-01-04%2015-56-38.png?raw=true">
