@@ -1,2 +1,2 @@
 # HackTheBox_walktroughs
-Walkthrough on HTB machines
+Walkthroughs on HTB machines
