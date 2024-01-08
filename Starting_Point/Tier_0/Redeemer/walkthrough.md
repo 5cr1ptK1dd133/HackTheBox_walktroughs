@@ -43,4 +43,4 @@ _A: keys *_
 
 Submit root flag 
 <br>
-           
+<img src="https://github.com/5cr1ptK1dd133/HackTheBox_walktroughs/blob/main/Starting_Point/Tier_0/Redeemer/screenshots/Captura%20de%20tela%20de%202024-01-05%2013-34-00.png?raw=true">    
