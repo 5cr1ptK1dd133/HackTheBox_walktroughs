@@ -31,4 +31,4 @@ _A: db.flag.find().pretty()
 
 Submit root flag 
 <br>
-        
+<img src="https://github.com/5cr1ptK1dd133/HackTheBox_walktroughs/blob/main/Starting_Point/Tier_0/Mongod/screenshots/Captura%20de%20tela%20de%202024-01-08%2010-26-55.png?raw=true">
